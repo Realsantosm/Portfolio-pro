@@ -8,7 +8,7 @@ Trying to re-install the app in the new system but am not able to do so, therefo
 ## Name
 
 ## Description
-
+This portfolio is mainly for the education purpose to enable myself to learn by doing 
 ## Visuals
 
 ## Usage
